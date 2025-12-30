@@ -1,13 +1,8 @@
 {
-  "name": "shadow-bot",
+  "name": "vercel-node-app",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {
-    "node-telegram-bot-api": "^0.64.0",
-    "axios": "^1.6.0"
   }
 }
